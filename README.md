@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<hr contenteditable="false" data-ke-type="horizontalRule" data-ke-style="style6" />
 <p1 align=center><b>📚STACKS</b></p1>
-<br><br>
+<br>
+<hr contenteditable="false" data-ke-type="horizontalRule" data-ke-style="style6" />
+<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
